@@ -28,11 +28,11 @@
      inkscape:zoom="58.070906"
      inkscape:cx="6.7073174"
      inkscape:cy="6.84508"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1350"
+     inkscape:window-height="1041"
+     inkscape:window-x="474"
+     inkscape:window-y="169"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g1" />
   <g
      transform="translate(19.843 -.45244)"
@@ -55,7 +55,7 @@
     <path
        d="m-17.182 1.6333-0.80865 1.5198-0.85142-0.84857"
        stroke-width=".582"
-       style="paint-order:normal;stroke:#63cb5b;stroke-opacity:1"
+       style="paint-order:normal;stroke:#2a2a2a;stroke-opacity:1"
        id="path1" />
   </g>
 </svg>
